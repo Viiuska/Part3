@@ -7,7 +7,7 @@ Viia Mäntymäki
 
 Simple application using ListView and custom layout to pass information to the user. When user tap the cat/octopus/turtle it shows the animals image.
 
-course: https://www.youtube.com/watch?v=rdGpT1pIJlw
+sourse: https://www.youtube.com/watch?v=rdGpT1pIJlw
 
 ![image](https://user-images.githubusercontent.com/87257685/166968219-c47edf97-d823-4177-ab55-088bcb0d38ce.png)
 ![image](https://user-images.githubusercontent.com/87257685/166968257-5485cff1-71bc-4b93-9dba-f844e46381cd.png)
