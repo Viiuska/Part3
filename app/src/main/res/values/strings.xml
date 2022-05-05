@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Part3</string>
+
+    <string-array name="items">
+        <item>cat</item>
+        <item>octopus</item>
+        <item>turtle</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>50€</item>
+        <item>26€</item>
+        <item>39€</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>so adorable</item>
+        <item>can chance mood</item>
+        <item>so fluffy aka cuddly</item>
+    </string-array>
+
+</resources>
